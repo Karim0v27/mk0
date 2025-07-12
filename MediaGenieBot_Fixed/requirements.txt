@@ -1,0 +1,5 @@
+python-telegram-bot==20.6
+aiohttp
+nest_asyncio
+requests
+yt_dlp
